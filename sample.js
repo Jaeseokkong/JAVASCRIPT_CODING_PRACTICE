@@ -1,5 +1,6 @@
-function solution(){
+function solution(n){
     let answer;
+
     return answer;
 }
-console.log(solution());
+console.log(solution(1));
